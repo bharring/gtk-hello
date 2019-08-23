@@ -1,0 +1,5 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/com.github.bharring.gtk-hello
+/usr/share/applications/com.github.bharring.gtk-hello.desktop
+/usr/share/metainfo/com.github.bharring.gtk-hello.appdata.xml

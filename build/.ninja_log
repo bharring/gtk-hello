@@ -1,0 +1,7 @@
+# ninja log v5
+0	241	1566559789	com.github.bharring.gtk-hello@exe/src/Application.c	32c13a13c1e880c1
+241	435	1566559789	com.github.bharring.gtk-hello@exe/meson-generated_src_Application.c.o	43880005f7a14d6
+436	505	1566559789	com.github.bharring.gtk-hello	47c7e9f683288d17
+2	255	0	meson-install	9bd7faa9472bf40f
+0	266	1566560282	build.ninja	e21ded35e9a57a76
+0	468	0	meson-com.github.bharring.gtk-hello-pot	73f8ae44a63c5d8f
